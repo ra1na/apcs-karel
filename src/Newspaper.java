@@ -12,6 +12,45 @@ public class Newspaper implements Directions{
         bot.turnLeft();
         bot.turnLeft();
         bot.move();
+        bot.move();
+        bot.turnLeft();
+        bot.move();
+        bot.move();
+        bot.turnLeft();
+        bot.move();
+        bot.move();
+        bot.turnLeft();
+        bot.move();
+        bot.pickBeeper();
+        bot.turnLeft();
+        bot.turnLeft();
+        bot.move();
+        bot.turnLeft();
+        bot.turnLeft();
+        bot.turnLeft();
+        bot.move();
+        bot.move();
+        bot.turnLeft();
+        bot.turnLeft();
+        bot.turnLeft();
+        bot.move();
+        bot.move();
+        bot.turnLeft();
+        bot.turnLeft();
+        bot.turnLeft();
+        bot.move();
+        bot.move();
+        bot.turnLeft();
+        bot.turnLeft();
+        bot.turnLeft();
+        bot.putBeeper();
+    }
+    private void moveToNewsPaper() {
 
     }
+
+
+
+
 }
+
